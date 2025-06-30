@@ -97,7 +97,7 @@ Once it's merged — 🎉 Congratulations! You’ve made your **first open-sourc
 
 - [Laxmi Thapa](https://github.com/laxmithapas)
 
--[Praveen Ramisetti](https://github.com/Praveenramisetti76)
+- [Praveen Ramisetti](https://github.com/Praveenramisetti76)
 
 
 ---
