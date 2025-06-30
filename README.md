@@ -93,12 +93,12 @@ Once it's merged — 🎉 Congratulations! You’ve made your **first open-sourc
 - [Sri Vaishnavi Kodali](https://github.com/vaishnavikodali113/GSSOC)
 
 - [Pulkit](https://github.com/pt-78190)
-- - [Shreyashi Deb Roy](https://github.com/SHREYASHIKLS28)
+- [Shreyashi Deb Roy](https://github.com/SHREYASHIKLS28)
 
 - [Laxmi Thapa](https://github.com/laxmithapas)
 
 -[Praveen Ramisetti](https://github.com/Praveenramisetti76)
-_Add your name and GitHub profile link above this line._
+
 
 ---
 
