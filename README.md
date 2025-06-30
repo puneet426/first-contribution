@@ -112,4 +112,5 @@ Once it's merged — 🎉 Congratulations! You’ve made your **first open-sourc
 
 👏 **Thank you for contributing!**  
 Feel free to ⭐ the repo if you found it helpful.
+---
 🔔 **Don't forget to follow me on [GitHub](https://github.com/puneet426) for more beginner-friendly projects and open-source fun!**
