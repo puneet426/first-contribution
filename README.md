@@ -110,6 +110,7 @@ Once it's merged — 🎉 Congratulations! You’ve made your **first open-sourc
 - [Aruveer Singh](https://github.com/Aruveer)
 - [Sayem-08](https://github.com/Sayem-08)
 - [Eshiv Pandey](https://github.com/Eshiv-Pandey)
+- [Debasmita C](https://github.com/debasmitaas)
 
 
 ---
