@@ -89,7 +89,11 @@ Once it's merged — 🎉 Congratulations! You’ve made your **first open-sourc
 - [Mahak Goswami](https://github.com/Mahak0747)
 ```
 - [Booby](https://github.com/ghosttrozan)
+
+- [Sri Vaishnavi Kodali](https://github.com/vaishnavikodali113/GSSOC)
+
 - [Pulkit](https://github.com/pt-78190)
+
 
 _Add your name and GitHub profile link above this line._
 
