@@ -99,6 +99,8 @@ Once it's merged — 🎉 Congratulations! You’ve made your **first open-sourc
 
 - [Praveen Ramisetti](https://github.com/Praveenramisetti76)
 
+- [Kirti Arora](https://github.com/Kirti-1)
+
 
 ---
 
