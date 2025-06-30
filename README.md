@@ -85,7 +85,7 @@ Once it's merged — 🎉 Congratulations! You’ve made your **first open-sourc
 ## 💬 Contributors List
 
 ```
-- [Puneet Tiwari](https://github.com/puneett28)
+- [Puneet Tiwari](https://github.com/puneet426)
 ```
 - [Mahak Goswami](https://github.com/Mahak0747)
 - [Booby](https://github.com/ghosttrozan)
@@ -112,3 +112,4 @@ Once it's merged — 🎉 Congratulations! You’ve made your **first open-sourc
 
 👏 **Thank you for contributing!**  
 Feel free to ⭐ the repo if you found it helpful.
+🔔 **Don't forget to follow me on [GitHub](https://github.com/puneet426) for more beginner-friendly projects and open-source fun!**
