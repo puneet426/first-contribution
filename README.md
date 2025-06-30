@@ -95,6 +95,8 @@ Once it's merged — 🎉 Congratulations! You’ve made your **first open-sourc
 - [Pulkit](https://github.com/pt-78190)
 - - [Shreyashi Deb Roy](https://github.com/SHREYASHIKLS28)
 
+- [Laxmi Thapa](https://github.com/laxmithapas)
+
 
 _Add your name and GitHub profile link above this line._
 
