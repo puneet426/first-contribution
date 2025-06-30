@@ -101,6 +101,8 @@ Once it's merged — 🎉 Congratulations! You’ve made your **first open-sourc
 
 - [Kirti Arora](https://github.com/Kirti-1)
 
+- [Sanskar Lohani](https://github.com/sanskarlohani)
+
 
 ---
 
