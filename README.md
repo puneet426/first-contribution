@@ -86,8 +86,8 @@ Once it's merged — 🎉 Congratulations! You’ve made your **first open-sourc
 
 ```
 - [Puneet Tiwari](https://github.com/puneett28)
-- [Mahak Goswami](https://github.com/Mahak0747)
 ```
+- [Mahak Goswami](https://github.com/Mahak0747)
 - [Booby](https://github.com/ghosttrozan)
 
 - [Sri Vaishnavi Kodali](https://github.com/vaishnavikodali113/GSSOC)
