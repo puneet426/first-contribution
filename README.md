@@ -24,3 +24,4 @@ Anyone can contribute by **adding their name and GitHub profile** below. It’s 
 ### Example:
 - [Puneet Tiwari](https://github.com/yourusername)
 - [Puneet Tiwari](https://github.com/puneet426)
+- [Puneet](https://github.com/pt-78190)
