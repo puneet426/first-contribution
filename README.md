@@ -1,7 +1,7 @@
 # 🚀 Beginner Contributions Repository
 
 Welcome to the **Beginner-Friendly Contribution Repo!** 👋  
-This project is perfect for **first-time contributors** who want to learn how to use GitHub and open-source. You can make your **first pull request (PR)** by simply adding your **name and GitHub profile** to the list below.
+This repo is perfect for **first-time contributors** who want to learn how to use GitHub and open-source. You can make your **first pull request (PR)** by simply adding your **name and GitHub profile** to the list below.
 
 No coding required — you can contribute directly from the **GitHub website**!
 
