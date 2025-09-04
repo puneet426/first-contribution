@@ -112,6 +112,7 @@ Once it's merged — 🎉 Congratulations! You’ve made your **first open-sourc
 - [Eshiv Pandey](https://github.com/Eshiv-Pandey)
 - [Debasmita C](https://github.com/debasmitaas)
 - [Isha Komervelliwar](https://github.com/isha0601)
+- [Vedant Raj Singh Parmar](https://github.com/VVR6)
 
 - - [Silakini](https://github.com/silakini3116)
 
