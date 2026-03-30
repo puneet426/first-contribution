@@ -119,6 +119,7 @@ Once it's merged — 🎉 Congratulations! You’ve made your **first open-sourc
 ---
 -[Vanshika Gupta](https://github.com/Gupta-Vanshika)
 -[Yash Sharma](https://github.com/YASHSHARMAOFFICIALLY)
+- [laurapiro17](https://github.com/laurapiro17)
 
 
 
