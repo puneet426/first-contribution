@@ -106,6 +106,7 @@ Once it's merged — 🎉 Congratulations! You’ve made your **first open-sourc
   
 - [Akash Gupta](https://github.com/Akash-Gupta-git)
 - [MONISHKA MITTAL](https://github.com/MONISHKA1607)
+- - [Shikhar Sharma](https://github.com/shikjazz)
 
 - [Aruveer Singh](https://github.com/Aruveer)
 - [Sayem-08](https://github.com/Sayem-08)
